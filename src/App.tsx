@@ -7,21 +7,21 @@ function App() {
     {
       title: "WorkInProgress Platforms",
       description: "Founder and CEO of a student-exclusive internship platform, utilizing embeddings and cosine similarity for job matching, attracting 100+ active users within 6 months",
-      image: "wip.png",
+      image: "/wip.png",
       tags: ["Leadership", "Venture Creation", "Product Management", "Design"],
       link: "https://wipnetwork.ca"
     },
     {
       title: "Abstract.ai",
       description: "Building a newsletter to make technical research more accessible for learners",
-      image: "Abstract.ai.png",
+      image: "/Abstract.ai.png",
       tags: ["Node.js", "MongoDB", "Express.JS", "React", "LLM Integrations"],
       link: "https://github.com/daineyip/abstractAPI"
     },
     {
       title: "Forward.",
       description: "An email plugin to automatically forward 2FA email codes to your iPhone allowing autofilling straight from your keyboard",
-      image: "forward.png",
+      image: "/forward.png",
       tags: ["Python", "SMTP", "API Integrations"],
       link: "https://github.com/daineyip/emailProject"
     }

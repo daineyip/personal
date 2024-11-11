@@ -7,7 +7,7 @@ export default function Header() {
       <h1 className="text-4xl font-bold text-gray-900 mb-4">Daine Yip</h1>
       <p className="text-xl text-gray-600 mb-6">Building products that matter</p>
       <div className="flex justify-center gap-4 text-gray-600">
-        <a href="mailto:daineyip@icloud.com" className="flex items-center hover:text-gray-900 transition-colors">
+        <a href="mailto:daine@wipnetwork.ca" className="flex items-center hover:text-gray-900 transition-colors">
           <Mail className="w-5 h-5 mr-2" />
           daineyip@icloud.com
         </a>

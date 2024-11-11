@@ -35,14 +35,10 @@ function App() {
         <main>
           <section className="mb-12">
             <p className="text-gray-600 leading-relaxed max-w-3xl mx-auto text-center mb-6">
-            A technical product manager working in Web3 and internship recruitment with a passion
-             for building what people need. I have a bias for action and am motivated by tackling 
-             meaningful problems.</p>
+            I'm a Technical Product Manager working in Web3 and internship recruitment. Driven to build what people need, with a bias for action. I’m commited to tackling meaningful 
+             challenges that make a difference.</p>
              <p className="text-gray-600 leading-relaxed max-w-3xl mx-auto text-center mb-16">
-             With my background in product management and software engineering,
-              I’m successfully aligning our team at WorkInProgress Platforms toward 
-             our goal: simplifying early talent sourcing and connecting students with impactful 
-             opportunities.
+             With a foundation in Product Management and Software Engineering, I guide our team at WorkInProgress toward a shared mission: simplifying early talent sourcing and connecting students with meaningful opportunities.
             </p>
              
 
